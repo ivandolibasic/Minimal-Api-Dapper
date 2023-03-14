@@ -1,0 +1,10 @@
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.pdb
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\Model.xml
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\refactor.xml
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\postdeploy.sql
+C:\Users\idoli\Documents\Programming\MinimalApiDemoApp\UserDB\obj\Debug\predeploy.sql
